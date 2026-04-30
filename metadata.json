@@ -1,0 +1,6 @@
+{
+  "name": "Singapore Employment Pass and S Pass Minimum Salary Calculator",
+  "description": "Calculate the minimum qualifying salary for Singapore Employment Pass and S Pass based on age, sector, and application year.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
