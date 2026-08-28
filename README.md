@@ -6,4 +6,4 @@ A calculator for the Singapore Employment Pass (EP) and S Pass minimum qualifyin
 
 No installation, build step, or server required. Just open [index.html](index.html) in any web browser (double-click it, or use File > Open).
 
-The app is plain HTML, CSS, and JavaScript with no external dependencies.
+The app is a single self-contained HTML file (HTML, CSS, and JavaScript all inlined) with no external dependencies, so it can be shared and run on its own.
