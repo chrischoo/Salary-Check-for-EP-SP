@@ -1,20 +1,9 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Salary Check for EP and S Pass
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/9b20524a-31a9-4648-9ae5-a3a20c5bc9c7
+A calculator for the Singapore Employment Pass (EP) and S Pass minimum qualifying salary, based on Ministry of Manpower (MOM) benchmarks.
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+No installation, build step, or server required. Just open [index.html](index.html) in any web browser (double-click it, or use File > Open).
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+The app is plain HTML, CSS, and JavaScript with no external dependencies.
